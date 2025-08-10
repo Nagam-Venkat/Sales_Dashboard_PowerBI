@@ -94,31 +94,6 @@ The dashboard answers **key business questions** using a mix of **KPIs, slicers,
 
 ---
 
-## 🖼 Dashboard Screenshots
-*(Replace with your own images)*
-
-![Dashboard Overview](screenshots/dashboard_overview.png)  
-![Sales by Category](screenshots/sales_by_category.png)  
-![Sales & Profit by Sub-Category](screenshots/sales_profit_subcategory.png)  
-![Sales by Quarter](screenshots/sales_by_quarter_waterfall.png)
-![Sales by Region](screenshots/sales_by_region.png)
-![Sales by segment](screenshots/sales_by_segment.png)
-![Sales by Shipmode](screenshots/sales_by_shipmode.png)
-![Sales by Year](screenshots/sales_by_year.png)
----
-
-## 📥 Files in Repository
-
-## 📂 Project Structure
-
-├── Sales_Dashboard.pbix # Power BI file
-├── README.md # Project documentation
-├── /screenshots # Dashboard images
-
-
-
----
-
 ## 📌 Conclusion
 This dashboard reveals:
 1. Technology is the top-selling category.
@@ -134,4 +109,5 @@ This dashboard reveals:
 1. Download `Sales_Dashboard.pbix`
 2. Open in **Power BI Desktop**
 3. Use slicers for City, Product Name, Month, and Year to explore the data.
+
 
